@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.caja1{
+    width: 600px;
+    height: 600px;
+    background-color: pink;
+    border: 2px solid violet;
+    padding: 10px 80px 10px 80px;
+    margin: 10px;
+    background-image: url(/boxModel/images/panterarosa1.png);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center;
+}
+h1{
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 10rem;
+}
+h3{
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 4rem;
+    color: white;
+}
+.caja2{
+    width: 600px;
+    height: 600px;
+    background-color: yellow;
+    border: 2px solid violet;
+    padding: 10px 80px 10px 80px;
+    margin: 10px;
+    background-image: url(/boxModel/images/Los\ Simpson4.png);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center; 
+}
+h2{
+    font-family: 'Babylonica', cursive;
+    font-size: 4rem;
+    color: black;
+    
+}
